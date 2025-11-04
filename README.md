@@ -8,7 +8,7 @@
 **The Novacene Ltd** is an innovation studio and research collective exploring the future of learning, governance, and emergent intelligence.  
 Founded by **Kirstin Stevens**, The Novacene bridges the symbolic and the practical — translating ideas from verse, education, and AI ethics into working systems.
 
-Our work spans from inclusive hybrid schools like **The Haven Academy** to the relational AI architectures of **EVE.11** and **Verse-ality OS**.
+Our work spans from inclusive hybrid schools like **The Haven Academy** to the relational AI architectures of **EVE11** and **Verse-ality OS**.
 
 > “Ethics as geometry. Coherence as currency. Consent as protocol.”  
 > — *Stevens, 2025*
@@ -45,7 +45,7 @@ Our work spans from inclusive hybrid schools like **The Haven Academy** to the r
 
 **Website:** [thenovacene.github.io](https://thenovacene.github.io)  
 **Research:** [Zenodo Profile](https://zenodo.org/records/17501544)  
-**LinkedIn:** [Kirstin Stevens](https://www.linkedin.com/in/kirstinstevens/)  
+**LinkedIn:** [Kirstin Stevens](https://www.linkedin.com/in/kirstin/)  
 **License:** CC BY-NC-SA 4.0 — © 2025 *The Novacene Ltd*
 
 ---
