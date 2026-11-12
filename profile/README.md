@@ -52,12 +52,12 @@ For commercial licensing, certification audits, or partnership enquiries: [legal
 
 ## Operating settings
 
-The Novacene's framework is in active use across two operational settings under our operating arm **Nudge Education Ltd** (Company No. 10192753):
+The Novacene's framework is in active use in two operational settings:
 
-- **Haven** — in-person hyflex alternative provision.
-- **NEO (Nudge Education Online)** — fully online provider, pursuing OEAS accreditation. Launches September 2026.
+- **The Haven** — a specialist online education provision for neurodivergent young people, operated by the Autistic Girls Network charity. The Haven is independent of The Novacene and of Nudge Education; The Novacene provides its systems architecture and governance support.
+- **NEO (Nudge Education Online)** — a fully online alternative provision operated by Nudge Education Ltd (Company No. 10192753), pursuing OEAS accreditation. Launched September 2026.
 
 ---
 
-> *"Ethics as geometry. Coherence as currency. Consent as protocol."*  
+> *"Ethics as geometry. Coherence as currency. Consent as protocol."*
 > — Stevens, 2025
